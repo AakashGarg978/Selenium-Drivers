@@ -10,13 +10,8 @@ This repository contains all the Web-Drivers Links that are used mostly while wo
               
 # Link For Google Chrome Web Driver : 
                 https://sites.google.com/chromium.org/driver/
-              
- # Link For Safari Web Driver : 
-               https://developer.apple.com/documentation/webkit/about_webdriver_for_safari
-              
-# Link For Opera Web Driver : 
-              https://github.com/operasoftware/operachromiumdriver/releases
-
+                https://sites.google.com/chromium.org/driver/downloads?authuser=0
+                
 # Link For Mozilla Firefox (Gecko-Driver) Web Driver : 
               https://github.com/mozilla/geckodriver/releases
                             
@@ -25,3 +20,10 @@ This repository contains all the Web-Drivers Links that are used mostly while wo
               
 # Link For Microsoft Edge Web Driver : 
               https://msedgewebdriverstorage.z22.web.core.windows.net/
+              
+ # Link For Safari Web Driver : 
+               https://developer.apple.com/documentation/webkit/about_webdriver_for_safari
+              
+# Link For Opera Web Driver : 
+              https://github.com/operasoftware/operachromiumdriver/releases
+
